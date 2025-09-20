@@ -1,2 +1,3 @@
 # pi-pico-bomb
-kaboom
+Kaboom!
+Make sure to code the gpio pins correctly :)
